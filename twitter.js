@@ -1,0 +1,1 @@
+javascript:document.getElementById("user_profile_sidebar_fill_color").value = '';document.getElementById("title_theme").innerHTML
